@@ -36,12 +36,17 @@
 <a href="https://docs.github.com/en" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sardor86 streak" src="https://github-readme-streak-stats.herokuapp.com?user=sardor86&theme=black-ice&background=000000">
-    </a>
-</p>
-
-## 📊 My GitHub stats
-[![sardor86 GitHub stats](https://github-readme-stats.vercel.app/api?username=sardor86&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sardor86&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+    <p align="center">
+        <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sardor86 streak" src="https://github-readme-streak-stats.herokuapp.com?user=sardor86&theme=black-ice&background=000000">
+        </a>
+    </p>
+    <h2>📊 My GitHub stats</h2>
+    <br/>
+        <div>
+            <p><img alt="sardor86 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sardor86&show_icons=true&theme=dark"></p>
+            <p><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor86&langs_count=8&theme=dark"></p>
+        </div>  
+    <br/>
+<br/>
