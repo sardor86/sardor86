@@ -27,7 +27,7 @@
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px' width="45px"/> </a>
 <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> </a>
 <a href="https://manjaro.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Manjaro-logo.png" height="50px"></a>
-<a href="https://www.debian.org"><img src="https://www.debian.org/Pics/openlogo-50.png" height="50px"></a>
+<a href="https://www.debian.org"><img src="https://png2.cleanpng.com/dy/8cd1456aa3f48ad44549c62a8e498323/L0KzQYm3VsA5N6FvjpH0aYP2gLBuTfRmappmhp91aX74iH7rigN1eppnjeZyb36wfLr1lggubpD6htZqdHnyfn7zif52gF5wRadrMXG6SYfpWcVkbWU9Rqk9OEC8R4a4UcUzQGU7SagCNUa0Q4e1kP5o/kisspng-debian-linux-distribution-linux-foundation-linux-k-5b1a796b95ce48.7480975115284616756136.png" height="50px"></a>
 <a href="https://archlinux.org/"><img src="https://toppng.com/download/W2E5qgNGE4ZDcSWsvaKMN6NMbriPjxGtGSQEvWBDSFsFJCPrjHIyUe7SwODwShqFAU362sA30dazF7Z9ie5QPhBbyGEDf7Ap7xfg6C201REDwpTf3kYA8OP6reHri2obQ65bwX0dEdjeaMMFFzE57WjJOUDmb9VmV1x34q6bbpa72KmepjSJk6MZkcfeW7NjOa274ijy/large" height="50px"></a>
 <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -45,8 +45,8 @@
     <h2>📊 My GitHub stats</h2>
     <br/>
         <div>
-            <p><img alt="sardor86 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sardor86&show_icons=true&theme=dark"></p>
-            <p><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor86&langs_count=8&theme=dark"></p>
+            <p><img alt="sardor86 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sardor86&show_icons=true&theme=dark&env=PAT_1"></p>
+            <p><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardor86&langs_count=8&theme=dark&env=PAT_1"></p>
         </div>  
     <br/>
 <br/>
