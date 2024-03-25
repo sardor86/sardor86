@@ -26,7 +26,6 @@
 <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://www.postgresql.org//media/img/about/press/elephant.png" height='40px' width="40px"/> </a>
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" height='45px' width="45px"/> </a>
 <a href="https://help.ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/> </a>
-<a href="https://archlinux.org/"><img src="https://toppng.com/download/W2E5qgNGE4ZDcSWsvaKMN6NMbriPjxGtGSQEvWBDSFsFJCPrjHIyUe7SwODwShqFAU362sA30dazF7Z9ie5QPhBbyGEDf7Ap7xfg6C201REDwpTf3kYA8OP6reHri2obQ65bwX0dEdjeaMMFFzE57WjJOUDmb9VmV1x34q6bbpa72KmepjSJk6MZkcfeW7NjOa274ijy/large" height="50px"></a>
 <a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
